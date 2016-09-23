@@ -4,7 +4,7 @@
 <footer class="footer-main">
 		<p>Copyright &copy; 2015-2016 <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a></p>
 		<br>
-		Powered by <a href="https://typecho.org" target="_blank">Typecho</a>, Themes <a href="http://weic96.cn/project/typecho-yomi" target="_blank">YoMi</a> & By : <a href="http://weic96.cn" target="_blank">Weic</a>
+		Powered by <a href="http://typecho.org" target="_blank">Typecho</a>, Themes <a href="http://weic96.cn/project/typecho-yomi-v1" target="_blank">YoMi</a> & By : <a href="http://weic96.cn" target="_blank">Weic</a>
 </footer>
 <?php $this->footer(); ?>
 <a id="back-btn" class="animated bounceInDown" href="javascript:;"></a>
